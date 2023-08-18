@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="LabuLadong" />
+        <module name="LeetCode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="LabuLadong" target="1.5" />
+      <module name="LabuLadong" target="17" />
+      <module name="LeetCode" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

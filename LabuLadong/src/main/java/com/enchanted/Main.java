@@ -1,11 +1,14 @@
-package com.enchanted;/**
+package com.enchanted;
+
+/**
  * @ClassName: ${NAME}
  * @Description: TODO
  * @PackageName:com.enchanted
  * @Author Enchanted
  * @Date ${DATE} ${TIME}
  * @Version 1.0
- */public class Main {
+ */
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
