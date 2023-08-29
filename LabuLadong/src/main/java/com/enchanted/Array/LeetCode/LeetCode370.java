@@ -8,6 +8,7 @@ package com.enchanted.Array.LeetCode;
  * @Date 2023/8/28 07:10
  * @Version 1.0
  */
+// git test
  public class LeetCode370 {
      public int[] getModifiedArray(int length, int[][] updates) {
          int[] nums = new int[length];
